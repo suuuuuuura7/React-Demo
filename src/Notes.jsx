@@ -26,6 +26,13 @@ const Notes = [
         title: "Binary",
         detail: "Q: There are 10 types of people in the world.\nA: Those who understand binary, and those who don't."
     }
+    ,
+    {
+        id: 6,
+        title: "Array",
+        detail: "Q: Why did the programmer quit his job \n A: Because he did't get arrays."
+    }
+
 ];
 
 export default Notes;

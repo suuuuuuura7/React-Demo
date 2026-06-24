@@ -1,11 +1,11 @@
 import React from "react";
 
-
+const year = new Date().getFullYear();
 
 function Footer() {
 
     return (
-        <footer><p>copyright ©️ 2026 </p></footer>
+        <footer><p>copyright ©️ {year} </p></footer>
     );
 
 };
